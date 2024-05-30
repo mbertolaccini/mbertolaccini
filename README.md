@@ -1,4 +1,6 @@
-## Hi there 👋! Let's connect linkedin.com/marco-bertolaccini
+## Hi there 👋!
+# Let's connect
+www.linkedin.com/marco-bertolaccini
 
 <!--
 **mbertolaccini/mbertolaccini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
